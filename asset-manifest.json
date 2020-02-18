@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Backend-Workshop/static/css/main.cc7814c9.chunk.css",
+    "main.js": "/Backend-Workshop/static/js/main.5fb78acc.chunk.js",
+    "main.js.map": "/Backend-Workshop/static/js/main.5fb78acc.chunk.js.map",
+    "runtime~main.js": "/Backend-Workshop/static/js/runtime~main.b7326dd6.js",
+    "runtime~main.js.map": "/Backend-Workshop/static/js/runtime~main.b7326dd6.js.map",
+    "static/js/2.50a6c9c0.chunk.js": "/Backend-Workshop/static/js/2.50a6c9c0.chunk.js",
+    "static/js/2.50a6c9c0.chunk.js.map": "/Backend-Workshop/static/js/2.50a6c9c0.chunk.js.map",
+    "index.html": "/Backend-Workshop/index.html",
+    "precache-manifest.6fdbe3048c334893ab32f3c7f535749a.js": "/Backend-Workshop/precache-manifest.6fdbe3048c334893ab32f3c7f535749a.js",
+    "service-worker.js": "/Backend-Workshop/service-worker.js",
+    "static/css/main.cc7814c9.chunk.css.map": "/Backend-Workshop/static/css/main.cc7814c9.chunk.css.map"
+  }
+}
