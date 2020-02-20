@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Backend-Workshop/static/css/main.c5774b79.chunk.css",
-    "main.js": "/Backend-Workshop/static/js/main.885355c8.chunk.js",
-    "main.js.map": "/Backend-Workshop/static/js/main.885355c8.chunk.js.map",
+    "main.js": "/Backend-Workshop/static/js/main.aac347fb.chunk.js",
+    "main.js.map": "/Backend-Workshop/static/js/main.aac347fb.chunk.js.map",
     "runtime~main.js": "/Backend-Workshop/static/js/runtime~main.b7326dd6.js",
     "runtime~main.js.map": "/Backend-Workshop/static/js/runtime~main.b7326dd6.js.map",
     "static/js/2.cf9f994e.chunk.js": "/Backend-Workshop/static/js/2.cf9f994e.chunk.js",
     "static/js/2.cf9f994e.chunk.js.map": "/Backend-Workshop/static/js/2.cf9f994e.chunk.js.map",
     "index.html": "/Backend-Workshop/index.html",
-    "precache-manifest.3221406ebe68aea777583daa39381d8b.js": "/Backend-Workshop/precache-manifest.3221406ebe68aea777583daa39381d8b.js",
+    "precache-manifest.4531f393d79532bdc51a6fe49bc6ce37.js": "/Backend-Workshop/precache-manifest.4531f393d79532bdc51a6fe49bc6ce37.js",
     "service-worker.js": "/Backend-Workshop/service-worker.js",
     "static/css/main.c5774b79.chunk.css.map": "/Backend-Workshop/static/css/main.c5774b79.chunk.css.map"
   }
