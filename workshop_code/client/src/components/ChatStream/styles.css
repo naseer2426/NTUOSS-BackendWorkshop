@@ -1,0 +1,30 @@
+.chat-stream {
+    width: 85%;
+    margin: auto;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: start;
+    height: 75%;
+}
+
+.chat-stream-content {
+    flex-grow: 1;
+    overflow: auto;
+    min-height: 0;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
