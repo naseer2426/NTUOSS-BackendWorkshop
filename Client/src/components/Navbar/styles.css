@@ -1,0 +1,19 @@
+.navbar {
+  background-color: #5682a3;
+  color: #ffffff;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  padding-left: 1em;
+  height: 2em;
+}
+
+.app-name {
+  display: flex;
+  width: 30%;
+}
+
+.chat-name {
+  display: flex;
+  width: 70%;
+}
