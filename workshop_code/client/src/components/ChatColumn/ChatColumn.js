@@ -18,6 +18,8 @@ class ChatColumn extends React.Component {
 
     componentDidMount() {
         //Nothing as of now
+        var myName = prompt("What is your name");
+        this.setState({ name: myName });
     }
 
     handleChange = e => {
@@ -25,7 +27,14 @@ class ChatColumn extends React.Component {
     };
 
     handleSendMessage = () => {
-        //Nothing as of now
+        var newMessage = {
+            body: this.state.message,
+            name: this.state.name
+        };
+        this.setState(prevState => ({
+            messages: [...prevState.messages, newMessage],
+            message: ""
+        }));
     };
 
     loader = () => {

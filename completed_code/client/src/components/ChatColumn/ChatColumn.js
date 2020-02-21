@@ -15,7 +15,6 @@ class ChatColumn extends React.Component {
             loading: true
         };
         this.server = "https://telegram-backend.herokuapp.com";
-
         this.socket = io(this.server);
     }
 

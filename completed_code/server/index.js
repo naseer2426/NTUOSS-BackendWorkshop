@@ -1,7 +1,7 @@
 var express = require("express");
 var app = express();
 const bodyParser = require("body-parser");
-const { MongoClient, ObjectId } = require("mongodb");
+const { MongoClient } = require("mongodb");
 const PORT = process.env.PORT || 8000;
 const cors = require("cors")({ origin: true });
 var server = require("http").Server(app);
@@ -21,8 +21,6 @@ client.connect(err => {
     }
     messages = client.db("Telegram").collection("Chat");
     console.log("Connected to mongo boi");
-
-    // client.close();
 });
 
 app.use(bodyParser.json());
