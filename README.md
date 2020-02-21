@@ -68,12 +68,18 @@ For errors, typos or suggestions, please do not hesitate to [post an issue](http
 
 - Nodejs
   - Check if you have nodjs installed on your laptop by running the following command on terminal (Mac) or command line (windows)
-  - ```node --version```
+```bash
+node --version
+```
   - If you don't have it installed, get it [here](https://nodejs.org/en/) (for Windows users)
   - Mac users can install brew by running
-  - ```mkdir homebrew && curl -L https://github.com/Homebrew/brew/tarball/master | tar xz --strip 1 -C homebrew```
+  ```bash
+  mkdir homebrew && curl -L https://github.com/Homebrew/brew/tarball/master | tar xz --strip 1 -C homebrew
+  ```
   - Then run
-  - ```brew install node```
+```bash
+brew install node
+```
 - Postman
   - If you don't have postman installed get it [here](https://www.postman.com/downloads/)
 - A text editor
