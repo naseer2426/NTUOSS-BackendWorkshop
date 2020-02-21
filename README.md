@@ -176,7 +176,7 @@ server.listen(PORT, () => {
 
 - Assinging socket in the contructor
     ```javascript
-    this.server = "https://localhost:8000";
+    this.server = "http://localhost:8000";
     this.socket = io(this.server);
     ```
 
