@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Backend-Workshop/static/css/main.c5774b79.chunk.css",
-    "main.js": "/Backend-Workshop/static/js/main.aac347fb.chunk.js",
-    "main.js.map": "/Backend-Workshop/static/js/main.aac347fb.chunk.js.map",
-    "runtime~main.js": "/Backend-Workshop/static/js/runtime~main.b7326dd6.js",
-    "runtime~main.js.map": "/Backend-Workshop/static/js/runtime~main.b7326dd6.js.map",
-    "static/js/2.cf9f994e.chunk.js": "/Backend-Workshop/static/js/2.cf9f994e.chunk.js",
-    "static/js/2.cf9f994e.chunk.js.map": "/Backend-Workshop/static/js/2.cf9f994e.chunk.js.map",
-    "index.html": "/Backend-Workshop/index.html",
-    "precache-manifest.092962fec85e51bd7bb13a89478649bc.js": "/Backend-Workshop/precache-manifest.092962fec85e51bd7bb13a89478649bc.js",
-    "service-worker.js": "/Backend-Workshop/service-worker.js",
-    "static/css/main.c5774b79.chunk.css.map": "/Backend-Workshop/static/css/main.c5774b79.chunk.css.map"
+    "main.css": "/NTUOSS-BackendWorkshop/static/css/main.c5774b79.chunk.css",
+    "main.js": "/NTUOSS-BackendWorkshop/static/js/main.54147063.chunk.js",
+    "main.js.map": "/NTUOSS-BackendWorkshop/static/js/main.54147063.chunk.js.map",
+    "runtime~main.js": "/NTUOSS-BackendWorkshop/static/js/runtime~main.42813840.js",
+    "runtime~main.js.map": "/NTUOSS-BackendWorkshop/static/js/runtime~main.42813840.js.map",
+    "static/js/2.e41ba054.chunk.js": "/NTUOSS-BackendWorkshop/static/js/2.e41ba054.chunk.js",
+    "static/js/2.e41ba054.chunk.js.map": "/NTUOSS-BackendWorkshop/static/js/2.e41ba054.chunk.js.map",
+    "index.html": "/NTUOSS-BackendWorkshop/index.html",
+    "precache-manifest.7d2403cac3e09fa7ff9366b59f92adcb.js": "/NTUOSS-BackendWorkshop/precache-manifest.7d2403cac3e09fa7ff9366b59f92adcb.js",
+    "service-worker.js": "/NTUOSS-BackendWorkshop/service-worker.js",
+    "static/css/main.c5774b79.chunk.css.map": "/NTUOSS-BackendWorkshop/static/css/main.c5774b79.chunk.css.map"
   }
 }
